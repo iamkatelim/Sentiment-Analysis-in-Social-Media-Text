@@ -7,6 +7,7 @@ In this project, we focus on the topic of covid-19 crisis in Malaysia. Social me
 - Pre-Processing [Notebook](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/preprocess/preprocess%20(consider%20emoji).ipynb)
 - Word2Vec [Notebook](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/word2vec%20-%20train%20and%20visualize.ipynb)
 - Proposed Method [Notebook](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/neural%20network/Proposed%20Method%20-%20word2vec%20%2B%20LSTM%20(emoji).ipynb)
+- Exploratory Data Analysis [Notebook](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/EDAs/EDAs.ipynb)
 
 
 Chekout the pre-trained model [here](https://limmayyann.herokuapp.com/). GPU with 4GB and above is required. 🤓
