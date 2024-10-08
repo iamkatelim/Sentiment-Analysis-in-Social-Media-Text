@@ -1,5 +1,7 @@
 # Sentiment Analysis in Social Media Text Using Neural Network
 
+### Paper - [AIP Conference Proceedings](https://pubs.aip.org/aip/acp/article-abstract/2898/1/030051/3262582/Sentiment-analysis-on-Malay-English-mixed-language?redirectedFrom=fulltext)
+
 In this project, we focus on the topic of covid-19 crisis in Malaysia. Social media data is being collected with top-100 most relevance comments that related to how people think of the new covid-19 daily cases updated every day on [Kementerian Kesihatan Malaysia (KKM) Facebook page](https://www.facebook.com/kementeriankesihatanmalaysia). The dataset has mixed languages of Malay, English and Manglish (Malaysia-English) and labelled manually to fulfill the requirement of structured dataset. Facebook has been selected as the main platform to collect data from. Sentiment analysis will be applied to the data collected with different neural networks and proposed method is evaluated to prove the efficiency of [proposed framework](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/neural%20network/Proposed%20Method%20-%20word2vec%20%2B%20LSTM%20(emoji).ipynb).
 
 - Dataset [CSV](https://github.com/iamkatelim/Sentiment-Analysis-in-Social-Media-Text/blob/master/dataset/with%20emoji.csv)
